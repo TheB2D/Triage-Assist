@@ -1,11 +1,11 @@
 
-# Gaza Assist
+# Triage Assist
 
 ![Logo](assets/logo.png)
 
-**Gaza assist** is a application that seeks to pre-process operations with patients in order to relieve congestions in triage processes. Pre-processing works by asking patients specific questions tailored just for them to extract critical and life-saving information. This information will then be analyzed by a specially trained model that gives insights on what the possible diagnosis and treatment is based on conversation patterns.
+**Triage assist** is a application that seeks to pre-process operations with patients in order to relieve congestions in triage processes. Pre-processing works by asking patients specific questions tailored just for them to extract critical and life-saving information. This information will then be analyzed by a specially trained model that gives insights on what the possible diagnosis and treatment is based on conversation patterns.
 
-This project was built in 24 hours as part of the Global Health Hackathon hosted by gxzahealth.org and glia.org
+
 
 
 
