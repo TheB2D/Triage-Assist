@@ -1,8 +1,6 @@
 
 # Triage Assist
 
-![Logo](assets/logo.png)
-
 **Triage assist** is a application that seeks to pre-process operations with patients in order to relieve congestions in triage processes. Pre-processing works by asking patients specific questions tailored just for them to extract critical and life-saving information. This information will then be analyzed by a specially trained model that gives insights on what the possible diagnosis and treatment is based on conversation patterns.
 
 
